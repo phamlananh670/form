@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b_1">26sp</dimen>
+    <dimen name="b_2">16sp</dimen>
+    <dimen name="b_3">14sp</dimen>
+    <dimen name="b_4">12sp</dimen>
+    <dimen name="b_6">20sp</dimen>
+    <dimen name="b_7">36sp</dimen>
+    <dimen name="b_8">18sp</dimen>
+    <dimen name="b_9">42sp</dimen>
+    <dimen name="b_10">24sp</dimen>
+    <dimen name="b_11">28sp</dimen>
+    <dimen name="b_12">30sp</dimen>
+    <dimen name="b_13">22dp</dimen>
+</resources>

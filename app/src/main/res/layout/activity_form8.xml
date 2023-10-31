@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="402dp"
+    android:layout_height="870dp"
+    tools:context=".form8">
+
+    <ImageView
+        android:layout_width="406dp"
+        android:layout_height="306dp"
+        android:src="@drawable/page1"
+        android:layout_marginTop="102dp"
+        />
+
+    <TextView
+        android:layout_width="323dp"
+        android:layout_height="84dp"
+        android:layout_marginLeft="42dp"
+        android:layout_marginTop="453dp"
+        android:text="@string/a36"
+        android:textAlignment="center"
+        android:textColor="@color/c_3"
+        android:textSize="@dimen/b_11"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="305dp"
+        android:layout_height="54dp"
+        android:layout_marginLeft="49dp"
+        android:layout_marginTop="549dp"
+        android:text="@string/a37"
+        android:textAlignment="center"
+        android:textColor="@color/c_29"
+        android:textSize="@dimen/b_8" />
+
+    <ImageView
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:src="@drawable/icon1"
+        android:layout_marginTop="823dp"
+        android:layout_marginLeft="102dp"
+        />
+    <TextView
+        android:layout_width="174dp"
+        android:layout_height="21dp"
+        android:text="@string/a38"
+        android:textColor="@color/c_30"
+        android:textSize="@dimen/b_3"
+        android:layout_marginTop="826dp"
+        android:layout_marginLeft="126dp"
+        />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        android:background="@drawable/bt_b1"
+        android:contentDescription="Switch pages"
+        android:layout_marginTop="648dp"
+        android:layout_marginLeft="165dp"
+        />
+<ImageView
+    android:layout_width="34dp"
+    android:layout_height="34dp"
+    android:src="@drawable/mt1"
+    android:layout_marginTop="669dp"
+    android:layout_marginLeft="185dp"
+    />
+
+</RelativeLayout>

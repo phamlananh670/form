@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFff</color>
+
+    <color name="c_1">#808080</color>
+    <color name="c_2">#F4F4F4</color>
+
+    <color name="c_3">#000000</color>
+    <color name="c_4">#A4A4A4</color>
+
+    <color name="c_5">#313131</color>
+    <color name="c_6">#A8A8A8</color>
+
+    <color name="c_7">#0373F3</color>
+    <color name="c_8">#EBEBEB</color>
+
+    <color name="c_9">#BCBCBC</color>
+    <color name="c_10">#858585</color>
+
+    <color name="c_11">#F8F8F8</color>
+    <color name="c_12">#ECECEC</color>
+    <color name="c_13">#B1B1B1</color>
+    <color name="c_14">#0373F34D</color>
+    <color name="c_15">#737373</color>
+    <color name="c_16">#181818</color>
+    <color name="c_17">#AEAEAE</color>
+    <color name="c_18">#8E8E8E</color>
+    <color name="c_19">#888888</color>
+    <color name="c_20">#C3C3C3</color>
+    <color name="c_21">#C0C0C0</color>
+    <color name="c_22">#B1B1B1</color>
+    <color name="c_23">#6C6C6C</color>
+    <color name="c_24">#FFFFFFB2</color>
+    <color name="c_25">#A5A5A5</color>
+    <color name="c_26">#E9E9E9</color>
+    <color name="c_27">#A9A9A9</color>
+    <color name="c_28">#1E1E1E</color>
+    <color name="c_29">#B4B4B4</color>
+    <color name="c_30">#595959</color>
+    <color name="c_31">#1F1F1F</color>
+    <color name="c_32">#ADADAD</color>
+    <color name="c_33">#3B5896</color>
+    <color name="c_34">#272727</color>
+    <color name="c_35">#818181</color>
+</resources>
