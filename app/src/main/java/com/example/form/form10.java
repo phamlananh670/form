@@ -16,7 +16,7 @@ public class form10 extends AppCompatActivity {
         imageBt2 = findViewById(R.id.imageBt2);
         imageBt2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view){
-                Intent heintent= new Intent(form10.this, form_6.class);
+                Intent heintent= new Intent(form10.this, form12.class);
                 startActivity(heintent);
             }
         });

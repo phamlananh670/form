@@ -20,7 +20,7 @@ public class form12 extends AppCompatActivity {
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent a_9intent = new Intent(form12.this,form13.class);
+                Intent a_9intent = new Intent(form12.this, form10.class);
                 startActivity(a_9intent);
                 finish();
             }
