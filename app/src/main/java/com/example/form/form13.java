@@ -17,7 +17,7 @@ ImageView back;
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent h3intent = new Intent(form13.this,form17.class);
+                Intent h3intent = new Intent(form13.this,MainActivity.class);
                 startActivity(h3intent);
                 finish();
             }
