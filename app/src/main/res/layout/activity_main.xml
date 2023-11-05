@@ -6,13 +6,15 @@
     android:layout_height="870dp"
     tools:context=".MainActivity"
     android:background="@color/c_8">
+
     <ImageView
+        android:id="@+id/back"
         android:layout_width="28dp"
         android:layout_height="28dp"
-        android:src="@drawable/muiten1"
-        android:layout_marginTop="74dp"
         android:layout_marginLeft="40dp"
-        />
+        android:layout_marginTop="74dp"
+        android:contentDescription="back"
+        android:src="@drawable/muiten1" />
     <ImageView
         android:layout_width="30dp"
         android:layout_height="30dp"

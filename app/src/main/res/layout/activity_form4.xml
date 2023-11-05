@@ -21,13 +21,15 @@
         android:layout_marginTop="344dp"
 
         />
+
     <ImageView
+        android:id="@+id/back"
         android:layout_width="26dp"
         android:layout_height="26dp"
-        android:src="@drawable/h5"
-        android:layout_marginTop="75dp"
         android:layout_marginLeft="30dp"
-        />
+        android:layout_marginTop="75dp"
+        android:contentDescription="back"
+        android:src="@drawable/h5" />
     <TextView
         android:layout_width="296dp"
         android:layout_height="68dp"

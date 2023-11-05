@@ -5,13 +5,15 @@
     android:layout_width="402dp"
     android:layout_height="870dp"
     tools:context=".form_3">
+
     <ImageView
+        android:id="@+id/back"
         android:layout_width="28dp"
         android:layout_height="28dp"
-        android:src="@drawable/muiten1"
-        android:layout_marginTop="73dp"
         android:layout_marginLeft="30dp"
-        />
+        android:layout_marginTop="73dp"
+        android:contentDescription="back"
+        android:src="@drawable/muiten1" />
 
     <TextView
         android:layout_width="133dp"
@@ -88,7 +90,7 @@
         android:layout_height="660dp"
         android:text="@string/a"
         android:textColor="@color/c_11"
-        android:background="@color/c_11"
+        android:background="@drawable/bt_b3"
         app:backgroundTint="@null"
         android:layout_marginTop="214dp"
         />
@@ -266,5 +268,27 @@
         android:src="@drawable/c_6"
         android:layout_marginTop="488dp"
         android:layout_marginLeft="343dp"
+        />
+    <Button
+        android:layout_width="356dp"
+        android:layout_height="54dp"
+        android:text="@string/a77"
+        android:textSize="@dimen/b_2"
+        android:textColor="@color/white"
+        android:background="@drawable/bt_b2"
+        app:backgroundTint="@null"
+        android:layout_marginTop="556dp"
+        android:layout_marginLeft="23dp"
+        />
+    <Button
+        android:layout_width="356dp"
+        android:layout_height="54dp"
+        android:text="@string/a_56"
+        android:textSize="@dimen/b_2"
+        android:textColor="@color/white"
+        android:background="@drawable/bt_4"
+        app:backgroundTint="@null"
+        android:layout_marginTop="781dp"
+        android:layout_marginLeft="23dp"
         />
 </RelativeLayout>

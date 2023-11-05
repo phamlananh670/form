@@ -49,11 +49,11 @@
         android:layout_marginLeft="126dp"
         />
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/imageBt1"
         android:layout_width="76dp"
         android:layout_height="76dp"
         android:background="@drawable/bt_b1"
-        android:contentDescription="Switch pages"
+        android:contentDescription="Switch pages 1"
         android:layout_marginTop="648dp"
         android:layout_marginLeft="165dp"
         />

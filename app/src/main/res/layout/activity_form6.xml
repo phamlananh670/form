@@ -310,13 +310,15 @@
         app:backgroundTint="@null"
         android:layout_marginTop="770dp"
         />
+
     <ImageView
+        android:id="@+id/home"
         android:layout_width="28dp"
         android:layout_height="28dp"
-        android:src="@drawable/v4"
-        android:layout_marginTop="791dp"
         android:layout_marginLeft="35dp"
-        />
+        android:layout_marginTop="791dp"
+        android:contentDescription="home"
+        android:src="@drawable/v4" />
     <TextView
         android:layout_width="42dp"
         android:layout_height="21dp"
@@ -325,13 +327,15 @@
         android:layout_marginTop="823dp"
         android:layout_marginLeft="28dp"
         />
+
     <ImageView
+        android:id="@+id/wal"
         android:layout_width="28dp"
         android:layout_height="28dp"
-        android:src="@drawable/b_3"
-        android:layout_marginTop="791dp"
         android:layout_marginLeft="137dp"
-        />
+        android:layout_marginTop="791dp"
+        android:contentDescription="wallet"
+        android:src="@drawable/b_3" />
     <TextView
         android:layout_width="44dp"
         android:layout_height="21dp"
@@ -340,13 +344,15 @@
         android:layout_marginTop="823dp"
         android:layout_marginLeft="130dp"
         />
+
     <ImageView
+        android:id="@+id/gui"
         android:layout_width="28dp"
         android:layout_height="28dp"
-        android:src="@drawable/b_4"
-        android:layout_marginTop="791dp"
         android:layout_marginLeft="239dp"
-        />
+        android:layout_marginTop="791dp"
+        android:contentDescription="guide"
+        android:src="@drawable/b_4" />
     <TextView
         android:layout_width="42dp"
         android:layout_height="21dp"
@@ -355,13 +361,15 @@
         android:layout_marginTop="823dp"
         android:layout_marginLeft="233dp"
         />
+
     <ImageView
+        android:id="@+id/chart"
         android:layout_width="28dp"
         android:layout_height="28dp"
-        android:src="@drawable/h11"
-        android:layout_marginTop="791dp"
         android:layout_marginLeft="341dp"
-        />
+        android:layout_marginTop="791dp"
+        android:contentDescription="chart"
+        android:src="@drawable/h11" />
     <TextView
         android:layout_width="40dp"
         android:layout_height="21dp"

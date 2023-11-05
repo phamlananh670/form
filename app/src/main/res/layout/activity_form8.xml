@@ -52,7 +52,7 @@
         />
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/imageBt"
         android:layout_width="76dp"
         android:layout_height="76dp"
         android:background="@drawable/bt_b1"

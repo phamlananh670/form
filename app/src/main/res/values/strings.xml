@@ -148,7 +148,7 @@
     <string name="a40">Countless high-end entertainment facilities</string>
 
     <string name="a41">High-end leisure projects to choose from</string>
-    <string name="a42">The world's first-class modern leisure and entertainment method</string>
+    <string name="a42">The world is first-class modern leisure and entertainment method</string>
     <string name="a43">Sign up free</string>
     <string name="a44">Or continue with</string>
     <string name="a45">Enter e-mail address</string>
@@ -186,6 +186,8 @@
     <string name="a74">22 locations</string>
     <string name="a75">36</string>
     <string name="a76">4.9</string>
-
+    <string name="a77">Add activity</string>
+    <string name="a78">Enter the plan</string>
+    <string name="a79">View other</string>
 
 </resources>

@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Form"
         tools:targetApi="34">
         <activity
+            android:name=".form15"
+            android:exported="false" />
+        <activity
+            android:name=".form17"
+            android:exported="false" />
+        <activity
             android:name=".form14"
             android:exported="false" />
         <activity

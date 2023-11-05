@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="402dp"
+    android:layout_height="870dp"
+    tools:context=".form17"
+    android:background="@drawable/gradient">
+
+    <ImageView
+        android:id="@+id/b1"
+        android:layout_width="147dp"
+        android:layout_height="147dp"
+        android:layout_marginLeft="128dp"
+        android:layout_marginTop="361dp"
+        android:contentDescription="bg"
+        android:src="@drawable/v26" />
+
+</RelativeLayout>
