@@ -189,5 +189,8 @@
     <string name="a77">Add activity</string>
     <string name="a78">Enter the plan</string>
     <string name="a79">View other</string>
+    <string name="a90">Do not have an account?</string>
+    <string name="a91">Sign up</string>
+    <string name="a92">Enter password</string>
 
 </resources>
